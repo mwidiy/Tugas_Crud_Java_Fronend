@@ -1,0 +1,36 @@
+/* Custom styles for Aplikasi Data Kendaraan */
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.table th {
+    background-color: #e9ecef;
+    vertical-align: middle;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.card-header {
+    background-color: #007bff;
+}
+
+.bg-warning-subtle {
+    background-color: #ffe8cc !important;
+}
+
+.action-link {
+    cursor: pointer;
+    text-decoration: none;
+    color: #d9534f;
+    font-weight: 500;
+}
+.action-link:hover {
+    text-decoration: underline;
+}
+
+.action-detail { color: #f0ad4e; }
+.action-edit { color: #0275d8; }
+.action-delete { color: #d9534f; }
