@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://104.211.102.69:8080/api/kendaraan';
+const API_BASE_URL = 'https://medium-humor-assignment-electric.trycloudflare.com/api/kendaraan';
 
 $(document).ready(function () {
     // Determine which page we are on
